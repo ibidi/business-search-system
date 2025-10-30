@@ -261,8 +261,8 @@ Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 **İhsan Baki Doğan**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ibidi-black?style=flat-square&logo=github)](https://github.com/ibidi)
-[![Instagram](https://img.shields.io/badge/Instagram-ihsanbakidogan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ihsanbakidogann)
-[![X](https://img.shields.io/badge/X-ibidicode-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ibidicodes)
+[![Instagram](https://img.shields.io/badge/Instagram-ihsanbakidogann-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ihsanbakidogann)
+[![X](https://img.shields.io/badge/X-ibidicodes-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ibidicodes)
 [![Website](https://img.shields.io/badge/Website-ihsanbakidogan.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://ihsanbakidogan.com)
 
 ---
