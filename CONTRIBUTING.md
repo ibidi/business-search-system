@@ -94,3 +94,10 @@ Sorularınız için:
 - Pull Request yorumları
 
 Teşekkürler! 🙏
+
+---
+
+**Geliştirici**: İhsan Baki Doğan  
+**Website**: [ihsanbakidogan.com](https://ihsanbakidogan.com)  
+**Instagram**: [@ihsanbakidogan](https://instagram.com/ihsanbakidogan)  
+**X**: [@ibidicode](https://x.com/ibidicode)

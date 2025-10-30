@@ -258,8 +258,12 @@ Bu proje [MIT](LICENSE) lisansı altında lisanslanmıştır.
 
 ## 👨‍💻 Geliştirici
 
-**İbrahim**  
-GitHub: [@ibidi](https://github.com/ibidi)
+**İhsan Baki Doğan**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ibidi-black?style=flat-square&logo=github)](https://github.com/ibidi)
+[![Instagram](https://img.shields.io/badge/Instagram-ihsanbakidogan-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ihsanbakidogann)
+[![X](https://img.shields.io/badge/X-ibidicode-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ibidicodes)
+[![Website](https://img.shields.io/badge/Website-ihsanbakidogan.com-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://ihsanbakidogan.com)
 
 ---
 
@@ -278,6 +282,9 @@ GitHub: [@ibidi](https://github.com/ibidi)
 Sorularınız veya önerileriniz için:
 - **Issues**: [GitHub Issues](https://github.com/ibidi/business-search-system/issues)
 - **Pull Requests**: [GitHub PRs](https://github.com/ibidi/business-search-system/pulls)
+- **Instagram**: [@ihsanbakidogan](https://instagram.com/ihsanbakidogan)
+- **X (Twitter)**: [@ibidicode](https://x.com/ibidicode)
+- **Website**: [ihsanbakidogan.com](https://ihsanbakidogan.com)
 
 ---
 
@@ -285,6 +292,6 @@ Sorularınız veya önerileriniz için:
 
 **⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!**
 
-Made with ❤️ in Turkey
+Made with ❤️ by [İhsan Baki Doğan](https://ihsanbakidogan.com)
 
 </div>
