@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2025 İhsan Baki Doğan
+=======
+Copyright (c) 2024-2025 İhsan Baki Doğan
+>>>>>>> a1e09a8 (chore: Add CHANGELOG and release template for v2.0.0)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
